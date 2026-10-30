@@ -1,0 +1,1 @@
+SUJAN FIT OS: Open index.html on your computer. For iPhone installation, host the ZIP contents on a free HTTPS site (e.g. GitHub Pages); then choose Safari > Share > Add to Home Screen. All entries are device-local. Back up through Settings.
